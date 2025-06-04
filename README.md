@@ -92,9 +92,9 @@ pip3 install -r requirements.txt
 
 **Tansique Dasari**  
 Cybersecurity Analyst & Recon Automation Developer  
-- [LinkedIn](https://linkedin.com/in/tansique)  
-- [HackerOne](https://hackerone.com/tansique)  
-- [Bugcrowd](https://bugcrowd.com/tansique)
+- [LinkedIn](https://linkedin.com/in/tansique-dasari)  
+- [HackerOne](https://hackerone.com/tansique-17)  
+- [Bugcrowd](https://bugcrowd.com/tansique-17)
 
 ---
 
