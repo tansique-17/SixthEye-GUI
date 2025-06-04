@@ -1,0 +1,8 @@
+customtkinter
+Pillow
+colorama
+ipwhois
+beautifulsoup4
+requests
+python-whois
+CTkMenuBar
